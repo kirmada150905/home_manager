@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "name": "Drawing Room",
+            "appliances": {
+                "Fan": 1,
+                "Light": 1,
+                "AC": {
+                    "temp": 20
+                }
+            },
+            "icon": "Icons.lightbulb"
+        },
+        {
+            "name": "Kitchen",
+            "appliances": {
+                "Fan": 1,
+                "Light": 1,
+                "Fridge": 1,
+                "Stove": {
+                    "On": 1
+                }
+            },
+            "icon": "Icons.kitchen"
+        },
+        {
+            "name": "Bedroom",
+            "appliances": {
+                "Fan": 1,
+                "Light": 1,
+                "AC": {
+                    "temp": 20
+                }
+            },
+            "icon": "Icons.bed"
+        }
+    ]
+}
